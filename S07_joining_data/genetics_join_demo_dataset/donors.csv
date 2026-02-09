@@ -1,0 +1,13 @@
+donor_id,sex,age_bin,ancestry_group
+DT001,Male,20-29,AFR
+DT002,Female,30-39,EUR
+DT003,Male,40-49,EAS
+DT004,Female,40-49,EUR
+DT005,Male,20-29,AMR
+DT006,Male,60-69,EUR
+DT007,Male,20-29,AMR
+DT008,Male,60-69,EUR
+DT009,Female,20-29,AMR
+DT010,Male,50-59,EAS
+DT011,Female,40-49,EUR
+DT012,Male,50-59,EUR
